@@ -1,0 +1,9 @@
+.rectangle-48 {
+  width: 65%;
+  height: 78px;
+  flex-grow: 0;
+  margin: 35px 0;
+  padding: 16px 94px 17px 34px;
+  border-radius: 10px;
+  background-color: #fff;
+}

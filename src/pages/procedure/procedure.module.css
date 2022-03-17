@@ -1,0 +1,25 @@
+.title {
+  font-size: 25px;
+  font-weight: 700;
+  color: #000;
+}
+.button{
+  padding: 16px;
+  border-style: none;
+  border-radius: 5px;
+  font-size: 14px;
+  font-weight: 700;
+  background-color: #3f48ad;
+  cursor: pointer;
+  color: #fff;
+}
+.button:hover{
+  background-color: #5d66ca;
+}
+.input-section{
+  display: flex;
+}
+.delete{
+  cursor: pointer;
+  margin-right: 15px;
+}
